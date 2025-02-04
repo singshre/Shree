@@ -1,0 +1,187 @@
+Shree Singh 
+E-Mail: singshre@yahoo.com 
+Mob: +91+9922503781 
+Current Organization: Barclays Global Service Centre Private Limited (Barclays) 
+Location: Pune 
+ 
+OBJECTIVE: 
+
+To pursue a career with a company having a global vision, which encourages creativity and offers an opportunity to learn 
+and develop both in professional and personal life with teamwork. 
+
+PROFILE SUMMARY: 
+
+Highly motivated and dedicated professional with 10 years of experience in Application/Production support and Automation. Proven expertise in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, APP Dynamics, Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Experienced in supporting investment management solutions such as Charles River IMS within the Investment Banking and Asset Management sectors. Adept at automating manual tasks using various scripting languages (PowerShell, Shell scripting, VB Script). Seeking an environment that fosters continuous learning and provides opportunities for personal and professional growth.
+
+EXPERIENCE SUMMARY: 
+ 
+    • Application/Production Support and Business Support in Investment Banking and Asset Management supporting investment portfolio management solutions like Charles River IMS. 
+    • Onboarded ITRS from scratch to end and did various monitoring setup for All Application. Created Dashboard for proper representation of Application Journey
+    • Experience in Investment Banking and Financial services domain, supporting Trading and Order management, execution management, Blotter configuration, workflow monitor, compliance, and portfolio management. 
+    • Experience in support in Production environment and cross-platform web-based applications troubleshooting. 
+    • Excellent scripting skills to automate day-to-day tasks using the latest scripting languages to decrease manual effort and achieve fast and less error-prone results. 
+    • Experience in Automation Tool ITRS and APPD Onboarded (Complete setup) and used for Monitoring Across team.
+    • Provided production support in on-call rotation in a 24 x7 model.
+    • Good knowledge of UNIX, Autosys, SQL, AWS Support, Shell script. 
+    • Expertise in Support Management Including Incident, Problem and Change Management. 
+    • Good Experience of Patching Activity for Multiple server and application.
+    • Provide on-call support for production environment and project-related issues. 
+    • Involved in handling various major issues and got client appreciation for same.
+    • Monitoring and Managing SWAP, CPU Utilization, Disk Utilization, Memory Utilization.
+    • Ability to learn new technology, new domains and share knowledge. 
+    • 	Remote system administration using tools like SSH, Putty.
+    • Good understanding of ITIL Processes. 
+    • Good communication, interpersonal & analytical skills with proven abilities in resolving complex business software issues. 
+ 
+
+
+
+
+
+TECHNICAL SKILLS: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK EXPERIENCE: 
+ 
+Designation: Assistant vice president (AVP) 
+Organization: Barclays Global Service Centre Private Limited (Barclays) 
+Duration: July 2024 – Present   
+Team Size: 8
+Project Overview: Barclaycard Salesforce.com is a third-party CRM tool that facilitates end to end management of Customer relationships. Features include managing prospects, leads and customer, opportunities, deals, contacts, and call reports.
+BPI Online Servicing (formerly BBOS) provides an online platform to enable Small Business and Corporate Cardholders, and company administrators, to meet their online servicing needs across several channels and devices at a time and a place that is convenient to them.  BPI Online Servicing (formerly BBOS) delivers three distinct services to our customers:
+•	ID&V - Provides an authentication platform to allow all issuing customers to access their online services.  This is including all online users and TPA (Third Party Access) for Open Banking.
+•	BBos - Provides Small Business Online users with a Customer Self-Serve (CSS) platform where customers will view and manage their Issuing account. This includes downloading statements and making debit card payments.
+•	CoSh - Provides a secure, corporate platform that enables users to navigate through to their 3rd party online platform(s), such as Centre Suite BCOS and BSM.
+
+Roles and Responsibilities: 
+    1. Application support and management for salesforce application.
+    2. Merchant onboarding and reporting for Number of Application raised and successfully onboarded.
+    3. Supporting and managing Two application Barclaycard Business Online Service (BBOS) and Salesforce (Merchant Onboarding POS Machine).
+    4. Working on reducing minimum time to detect and resolve issue.
+    5. Enhance monitoring and automation to predict and alert issues related to infrastructure usage.
+    6. Threshold monitoring and experience journey using AppDynamics and ITRS.
+    7. Deploying and managing red hat OpenShift applications, Monitoring Pods and scaling up and down as and when required.
+    8. using thousand eyes and AppOmni to monitor web pages availability and any changes in policy or infra-availability to get alert on time.
+
+Designation: Application Support Specialist 
+Organization: Barclays Global Service Centre Private Limited (Barclays) 
+Duration: July 2021 – 2024
+Team Size: 9 
+Project Overview: Established centuries back in 1690, Barclays is a British universal bank. It supports consumers and small businesses through their retail banking services, and larger businesses and institutions through their corporate and investment banking services. 
+Today, Barclays is a major global financial services provider engaged in retail banking, credit cards, corporate and investment banking, and wealth management. Barclays moves, lends, invests, and protects money for 48 million customers and clients worldwide. Barclays envisions itself as a leading Transatlantic bank. It aims to generate sustainable value for its shareholders by emerging as one of the biggest consumers, corporate and investment banks catering some 24 million customers in the Personal, Wealth and Business Banking domains.
+Roles and Responsibilities: 
+    • Support Charles River IMS application which is an investment management solution that supports the entire investment life cycle across asset classes on a single platform, from portfolio and risk management through trading and post-trade trade settlement with integrated compliance.  
+    • Support the production environment for any business queries., production issues and work with the BTB team to solve production incidents. 
+    • Investigate productions issues in the production environment and propose technical support to the business to deal with a production issue and update the business and technology team within SLA for an issue. 
+    • Working with business Portfolio Managers, Traders, and Private bankers to facilitate trading and other activities.
+    • 	Perform complex database analysis and investigate issues based on production data. 
+    • 	Incident, Problem, and Change Management. 
+    • Batch Monitoring, Job Handling, Application Monitoring. 
+    • Automating manual activities using various scripting languages. 
+    • Triggering jobs on the need basis from Autosys 
+    • Debug and provide solutions for job flow in Autosys.
+    • Monitoring Infrastructure for Memory Swap and Disk space management.
+    • Operating system upgradation to higher version for application.
+    • Analyzing and automation of infra monitoring to detect and resolve beforehand. 
+    • Creating Jil and applying DB tag for fixing issues on Production and UAT. 
+    • Release/Deployment management and Keeping track of deployments. 
+    • Participate in various resiliency activities like disaster recovery tests. 
+    • Develop, deploy, and onboard strategic tools to support application efficiently. 
+
+
+Designation: Reference Data – Application Support Analyst
+Organization: Barclays Global Service Centre Private Limited (Barclays) 
+Duration: Feb 2019 – July 2021   
+Team Size: 12
+Project Overview: The project involves maintaining Instrument, Pricing and Client Account Applications in Reference Data. The Applications consume universal data from the external vendors like Bloomberg, Reuters and Stock Exchanges and provides subset customized data to downstream. Ensuring data flow SLA is adhered, Data Validation is cleared by liaising with the Data Operations, Data Extracts and Reports are timely generated is integral to ensure smooth BAU. Monitoring Autosys Batches, Services, Gateways and Server Health along with scheduled activities enable daily data processing.
+ 
+Roles and Responsibilities: 
+Reference Data IPMDM L2 EMEA RTB.
+    • Provided front-line production support services to the business and IT stakeholders to ensure continued availability, effectiveness, and accuracy of across the IB Reference Data suite of applications. 
+    • Understanding complex technical problems and develop automation strategies to reduce manual effort and non-value add activity. 
+    • Responsible for updating and maintaining the Automation documentations. Ensure all the automations have relevant documentation.
+    • Escalated incidents/failures to Level 3/BTB in line with the defined escalation process and drive the closure within the SLAs.
+    • Provided regular and high-quality updates to the customer on the progress on the incidents, including SLA breaches.
+    • Proactively identified opportunities to increase team efficiency such as reducing manual effort or decreasing the number of production incidents.
+    • Supported scheduled weekend activities (e.g., BCM testing, Data Centre Power down, Major Releases) of Production applications.
+    • Maintained excellent relationships and communication with global stakeholders, other IT teams, and business areas. 
+    • Actively contributed to the Knowledge Database to ensure that it is up to date.
+
+
+Designation: Development and Support (CIRT Application Owner)/IXOS bar code scanner. Support
+Organization: Mphasis Pvt Ltd 
+Client: Veritiv (Xpedx)
+Duration: November 2015 – Jan 2019
+Team Size: 5
+Project Overview: Working for Invoices Processing though warehouse to CIRT application. Invoice Monitoring checking count and request client for any failure invoices. Working on development and support for a document management system application called IXOS. The Purchase orders are scanned in using a printer or scanner and the application will read the barcode from the purchase order and index it. The documents are sent for archiving after they are indexed. Using the IXOS retriever client users can view the archived documents in the IXOS and can print them out too whenever necessary.
+
+Roles & Responsibilities:
+
+    • Preparation of roadmap/deployment plan to be documented for deployment process.
+    • Application Support/Development IXOS (Bar Code scanning)
+    • Oracle PL/SQL development and Production support
+    • Writing Shell script, Python Support, and development.
+    • Working on the development and enhancement of IBM reflection tool.
+    • Good working knowledge of SQL Queries and UNIX commands
+    • Working with Production & Application support team to build a plan to be executed successfully.
+    • An initiator for automation of the current processes for minimizing the manual work in the team.
+    • Preparation of reports which is sent to high level VP’s and Directors.
+    • Preparation of reports monthly quarterly.
+    • Accountable to maintain specified client satisfaction measures. High levels of responsibility to resolve client escalations and avoid further escalation to management.
+
+
+Designation: Software Engineer 
+Organization: Mphasis Pvt Ltd 
+Client: General Motors (OnStar Device)
+Duration: April 2014 – November 2015
+Team Size: 12
+Project Overview: In this Application there is an Enterprise Data Warehouse (EDW) which serves as a one stop shop for all the customer who are using the products of OnStar. EDW system receives several extracts (full files as well as deltas) from different business unit in OnStar. After loading up of EDW there are data marts which are to be loaded. EDW was developed such that it can handle both delta and full files as given by the source.
+
+Roles & Responsibilities:
+
+    • Preparation of design document as per client requirements.
+    • Working in Production Support and Application Services team simultaneously and never missed any SLA.
+    • Performing daily support activities on UNIX servers.
+    • Responsible for monitoring service performance, debugging log errors, production issues, and services restarts, upgrades, enhancements etc.
+    • Accountable to maintain specified client satisfaction measures. High levels of responsibility to resolve client escalations and avoid further escalation to management. 
+    • Performance monitoring and tuning of applications.
+    • Monitoring and Automation of manual task using scripting.
+    • Crontab scheduling, autosys job creating and monitoring. 
+    • Involved in automation of support functions processes.
+    • Provided 24x7 on call Support environment.
+
+Education: 
+ 
+Master Of Computer Application (MCA) from MCU University, Bhopal, M.P (2013) 
+Bachelor Of Computer Application (BCA) from GICTS, Gwalior, M.P (2010)  
+ 	12th from Jail Road Boy’s Higher Secondary School, Shillong, Meghalaya (2007) 
+10th from ST. Nanak High School, Shillong, Meghalaya (2005) 
+ 
+ 
+PERSONAL DETAILS: 
+ 
+	Date of Birth 	 	 	                              :  02 Dec 1989            
+	Father’s Name 	 	 	                              :  Lt. Ram Prabesh Singh
+	Gender   	 	 	                              :  Male 
+	Marital Status 	                                             : Married 
+	Nationality 	 	 	                              :  Indian 
+	Languages Known 	  	                             :  English, Hindi 
+	Permanent Address                 	                          :  Flat No A 504 Icon Imperio Ivy Estate 
+		                                                                Wagholi Pune Maharashtra 412207                                
